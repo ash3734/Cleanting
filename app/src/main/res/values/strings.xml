@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">클린팅</string>
+    <string name="pdetail">부가\n설명</string>
+    <string name="schedule">스케줄</string>
+    <string name="homearea">원하는 평수</string>
+    <string name="rate">평점</string>
+    <string name="pcount">청소횟수</string>
+    <string name="name">이름</string>
+    <string name="gender">성별</string>
+    <string name="city">도/시</string>
+    <string name="town">시/군/구</string>
+    <string name="posting">청소도우미 등록</string>
+    <string name="ploc">가능\n장소</string>
+    <string name="pinfo">청소도우미 정보</string>
+    <string name="datetoclean">가능 날짜</string>
+    <string name="dayhourtoclean">가능 시간</string>
+    <string name="register">등록</string>
+    <string name="setdate">날짜 설정</string>
+    <string name="setdayhour">시간 설정</string>
+    <string name="minarea">최소 평수</string>
+    <string name="maxarea">최대 평수</string>
+    <string name="somethingtotalk">하고 싶은 말</string>
+    <string name="addpicture">사진 추가</string>
+
+    <string name="hosting">집 등록</string>
+    <string name="area">평수</string>
+    <string name="dwellpattern">집종류</string>
+    <string name="hinfo">집주인 정보</string>
+
+    <!-- Strings related to activity_settings -->
+    <string name="title_activity_settings">설정</string>
+    <string name="title_activity_cleaner_board">CleanerBoardActivity</string>
+
+    <!-- Strings related to activity_detail_cleaner & activity_detail_host -->
+    <string name="cleaner_detail">청소도우미 상세정보</string>
+    <string name="host_detail">집주인 상세정보</string>
+    <string name="request">신청</string>
+    <string name="title_activity_detail_cleaner">DetailCleaner</string>
+    <string name="title_activity_detail_host">DetailHost</string>
+    <string name="title_activity_host_board">HostBoardActivity</string>
+</resources>

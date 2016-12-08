@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ash.cleantind_dgu_cse_se.SplashActivity"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/splashImage"
+        android:layout_marginTop="150dp"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/cleantind_logo_korean"
+        />
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_width="250dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:text="쌍방향 청소 알선 어플리케이션"
+        android:id="@+id/textView6" />
+
+</LinearLayout>
